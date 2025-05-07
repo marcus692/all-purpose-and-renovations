@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="All Purpose Painting and Renovations - Your trusted partner for all painting and renovation needs.">
+    <meta name="keywords" content="painting, renovations, home improvement, drywall repair, deck staining, pressure washing">
+    <meta name="author" content="All Purpose Painting and Renovations">                                           
+    <title>All Purpose Painting and Renovations</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to All Purpose Painting and Renovations</h1>
+    </header>
+    <main>
+        <section id="services">
+            <h2>Our services</h2>
+            <p>At All Purpose Painting and Renovations, we specialize in a variety of services to enhance your home or business. Whether you need a fresh coat of paint, drywall repair, or a complete renovation, we have the expertise to get the job done right.</p>
+            <img src="images/interior-painting.jpg" alt="Interior Painting" width="300">
+            <p>Our team of skilled professionals is dedicated to providing high-quality workmanship and exceptional customer service. We use only the best materials and techniques to ensure that your project is completed to your satisfaction.</p>
+            <p>We offer a wide range of services to meet your needs:</p>
+            <ul>
+                <li>Interior Painting</li>
+                <li>Exterior Painting</li>
+                <li>Drywall Repair</li>
+                <li>Deck Staining</li>
+                <li>Pressure Washing</li>
+                <li>Home Renovations</li>
+                <li>Commercial Services</li>
+                <li>Residential Services</li>
+                <li>Free Estimates</li>
+            </ul>
+        </section>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>All Purpose Painting and Renovations is a family-owned and operated business with a passion for transforming spaces. Our team of experienced professionals is dedicated to providing top-notch services to our clients.</p>
+            <p>We take pride in our work and strive to exceed your expectations. Our goal is to make your vision a reality, whether it's a small touch-up or a complete renovation.</p>
+            <p>Contact us today to learn more about our services and how we can help you with your next project!</p>
+            <p>With years of experience, we are committed to delivering quality and excellence.</p>
+        </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>If you have any questions or would like to schedule a consultation, please feel free to reach out to us.</p>
+            <p>Email: <a href="mailto:malibuxpress6@gmail.com">malibuxpress6@gmail.com</a></p>
+            <p>Phone: 0647419232</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy;2024 All Purpose Painting and Renovations</p>
+    </footer>
+</body>      
+</html>
